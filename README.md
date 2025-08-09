@@ -1,2 +1,8 @@
 # 641
-it is about learning
+
+# include<stdio.h>
+   int main()
+   {
+     printf("hello world");
+     return 0;
+     }
